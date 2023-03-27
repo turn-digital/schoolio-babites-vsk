@@ -45,7 +45,7 @@ const News = () => {
 
                   <div className="card-article__content">
                     <a
-                      href={"/school-astry-test/contact"}
+                      href={"/contact"}
                       className="card-article__link"
                       title="Topošo pirmklasnieku vecāku sapulce"
                     ></a>
@@ -97,7 +97,7 @@ const News = () => {
 
                   <div className="card-article__content">
                     <a
-                      href={"/school-astry-test/contact"}
+                      href={"/contact"}
                       className="card-article__link"
                       title="Matemātikas nedēļa Ozolnieku vidusskolā"
                     ></a>
@@ -149,7 +149,7 @@ const News = () => {
 
                   <div className="card-article__content">
                     <a
-                      href={"/school-astry-test/contact"}
+                      href={"/contact"}
                       className="card-article__link"
                       title="Leču ģimenes stipendija"
                     ></a>
@@ -201,7 +201,7 @@ const News = () => {
 
                   <div className="card-article__content">
                     <a
-                      href={"/school-astry-test/contact"}
+                      href={"/contact"}
                       className="card-article__link"
                       title="Skolā tapis atpūtas stūrītis"
                     ></a>
@@ -253,7 +253,7 @@ const News = () => {
 
                   <div className="card-article__content">
                     <a
-                      href={"/school-astry-test/contact"}
+                      href={"/contact"}
                       className="card-article__link"
                       title="Noslēgusies vilnas zeķu adīšanas akcija"
                     ></a>
@@ -274,7 +274,7 @@ const News = () => {
 
               <div className="home__news-more">
                 <a
-                  href={"/school-astry-test/contact"}
+                  href={"/contact"}
                   title="Visas aktualitātes"
                   className="button "
                 >
@@ -360,11 +360,7 @@ const News = () => {
               </div>
 
               <div className="home__news-more">
-                <a
-                  href={"/school-astry-test/contact"}
-                  title="Visi pasākumi"
-                  className="button "
-                >
+                <a href={"/contact"} title="Visi pasākumi" className="button ">
                   <span>Visi pasākumi</span>
 
                   <svg

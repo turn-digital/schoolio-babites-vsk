@@ -33,7 +33,7 @@ const Hero = () => {
             <ul className="quick-links quick-links--simple ">
               <li className="quick-links__item">
                 <a
-                  href={"/school-astry-test/contact"}
+                  href={"/contact"}
                   title="Stundu izmaiņas"
                   target="_blank"
                   className="link "
@@ -56,7 +56,7 @@ const Hero = () => {
               </li>
               <li className="quick-links__item">
                 <a
-                  href={"/school-astry-test/contact"}
+                  href={"/contact"}
                   title="Stundu saraksts"
                   target="_blank"
                   rel="noreferrer"
@@ -79,7 +79,7 @@ const Hero = () => {
               </li>
               <li className="quick-links__item">
                 <a
-                  href={"/school-astry-test/contact"}
+                  href={"/contact"}
                   title="Autobusu saraksts"
                   target="_blank"
                   rel="noreferrer"
@@ -102,7 +102,7 @@ const Hero = () => {
               </li>
               <li className="quick-links__item">
                 <a
-                  href={"/school-astry-test/contact"}
+                  href={"/contact"}
                   title="Ēdināšana"
                   target="_blank"
                   rel="noreferrer"

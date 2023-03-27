@@ -9,7 +9,7 @@ const Header = () => {
           <div className="header__content">
             <h1 className="header__title">
               <a
-                href={"/school-astry-test/contact"}
+                href={"/contact"}
                 title="Babītes vidusskola"
                 className="link link--invert"
               >
@@ -25,7 +25,7 @@ const Header = () => {
                 >
                   <a
                     className="header__menu-link menu-link"
-                    href={"/school-astry-test/contact"}
+                    href={"/contact"}
                     title="Sākumlapa"
                   >
                     <span>Sākumlapa</span>
@@ -37,7 +37,7 @@ const Header = () => {
                 >
                   <a
                     className="header__menu-link menu-link"
-                    href={"/school-astry-test/contact"}
+                    href={"/contact"}
                     title="Uzņemšana"
                   >
                     <span>Uzņemšana</span>
@@ -52,10 +52,7 @@ const Header = () => {
                   </button>
                   <ul className="header__submenu menu-link sub-menu">
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2475 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Uzņemšanas kārtība
                       </a>
                     </li>
@@ -67,7 +64,7 @@ const Header = () => {
                 >
                   <a
                     className="header__menu-link menu-link"
-                    href={"/school-astry-test/contact"}
+                    href={"/contact"}
                     title="Par skolu"
                   >
                     <span>Par skolu</span>
@@ -82,34 +79,22 @@ const Header = () => {
                   </button>
                   <ul className="header__submenu menu-link sub-menu">
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2476 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Ārpusstundu aktivitātes
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2477 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Mūsu vide
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2479 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Atbalsta komanda
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2478 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Dokumenti
                       </a>
                     </li>
@@ -121,7 +106,7 @@ const Header = () => {
                 >
                   <a
                     className="header__menu-link menu-link"
-                    href={"/school-astry-test/contact"}
+                    href={"/contact"}
                     title="Projekti"
                   >
                     <span>Projekti</span>
@@ -136,42 +121,27 @@ const Header = () => {
                   </button>
                   <ul className="header__submenu menu-link sub-menu">
                     <li className="header__submenu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3341 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Erasmus+ KA1
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3371 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Erasmus+ KA2
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3393 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         UNESKO
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3394 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         ESF projekti
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-3344 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         EKO
                       </a>
                     </li>
@@ -183,7 +153,7 @@ const Header = () => {
                 >
                   <a
                     className="header__menu-link menu-link"
-                    href={"/school-astry-test/contact"}
+                    href={"/contact"}
                     title="Kontakti"
                   >
                     <span>Kontakti</span>
@@ -198,18 +168,12 @@ const Header = () => {
                   </button>
                   <ul className="header__submenu menu-link sub-menu">
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2480 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Atbalsta personāls
                       </a>
                     </li>
                     <li className="header__submenu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-2481 menu-item menu-link ">
-                      <a
-                        className="header__link "
-                        href={"/school-astry-test/contact"}
-                      >
+                      <a className="header__link " href={"/contact"}>
                         Bibliotēka
                       </a>
                     </li>
