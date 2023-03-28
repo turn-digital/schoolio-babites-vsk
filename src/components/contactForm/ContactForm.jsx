@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { sendContactForm } from "../../services/index";
-import Logo from "../../images/schoolio-logo.png";
+import Logo from "../../../images/schoolio-logo.png";
 
 const ContactForm = () => {
   const [message, setMessage] = useState("");
