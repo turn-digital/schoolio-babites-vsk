@@ -1,5 +1,6 @@
 import React from "react";
 import "../../styles/style.scss";
+import { t } from "i18next";
 
 const Header = () => {
   return (
@@ -10,13 +11,12 @@ const Header = () => {
             <h1 className="header__title">
               <a
                 href={"/contact"}
-                title="Babītes vidusskola"
+                title={t("siteName")}
                 className="link link--invert"
               >
-                <span>Babītes vidusskola</span>
-              </a>{" "}
+                <span>{t("siteName")}</span>
+              </a>
             </h1>
-
             <nav id="navigat" className="header__menu header__menu--desktop">
               <ul className="header__menu-items menu">
                 <li

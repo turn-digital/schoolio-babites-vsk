@@ -1,12 +1,13 @@
 import React from "react";
 import "../../styles/style.scss";
+import { t } from "i18next";
 
 const Footer = () => {
   return (
     <>
       <footer className="footer" aria-label="Lapas kājene">
         <div className="wrapper">
-          <p className="footer__title">Babītes vidusskola</p>
+          <p className="footer__title">{t("siteName")}</p>
           <p className="footer__desc">
             <a
               className="footer__menu-link"

@@ -5,7 +5,7 @@
 @import "../../styles/fonts.scss";
 @import "../../styles/shame.scss";
 
-.hero {
+.hero-rectangle {
   position: relative;
   padding-top: 12px;
 
@@ -49,7 +49,7 @@
 
   &__bg {
     display: none;
-    background-image: url("../../images/babitesvidusskola.lv-ln.jpg");
+    background-image: url("../../../images/layout1.jpg");
   }
 
   &__image {
@@ -246,7 +246,7 @@
       }
 
       &:nth-of-type(2) {
-        margin-top: -90px;
+        margin-top: -44px;
         padding: 0; //ozolnieki
       }
     }
