@@ -27,13 +27,13 @@ const Content = (props) => {
             aprīkotas telpas un sporta zāle. Labiekārtots stadions un mācībām
             piemērota skolas apkārtne.
           </div>
-          <div class="hero-rectangle__more">
+          <div className="hero-rectangle__more">
             <a
               href="https://www.ozolniekuvsk.lv/par-skolu/dokumenti/"
               title="Dokumenti"
               target="_blank"
               rel="noopener"
-              class="link"
+              className="link"
             >
               <span>Dokumenti</span>
               <svg
@@ -44,7 +44,7 @@ const Content = (props) => {
               >
                 <path
                   d="M8.333.667L7.6 1.4l4 4.067H.333v1.066H11.6l-4 4.067.733.733L13.667 6z"
-                  fill-rule="evenodd"
+                  fillRule="evenodd"
                 ></path>
               </svg>
             </a>
